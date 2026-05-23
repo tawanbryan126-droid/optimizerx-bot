@@ -1,4 +1,4 @@
-const { 
+const {
     Client,
     GatewayIntentBits,
     Collection,
@@ -33,9 +33,8 @@ module.exports = client;
 
 client.slashCommands = new Collection();
 
-const { token } = require("./token.json");
-
-client.login(token);
+// LOGIN RENDER
+client.login(process.env.token);
 
 const evento = require("./handler/Events");
 evento.run(client);
@@ -48,7 +47,9 @@ client.once("ready", async () => {
     console.log(`👥 Tenho ${client.users.cache.size} Amiguinhos :D`);
     console.log(`🌐 Estou em ${client.guilds.cache.size} Servidores XD`);
 
-    // ===== SISTEMA 24/7 EM CALL =====
+    // ==============================
+    // SISTEMA 24/7 EM CALL
+    // ==============================
 
     const canalId = "1507639879180222498";
 
@@ -71,16 +72,21 @@ client.once("ready", async () => {
         console.log("🔊 Bot conectado na call 24/7!");
 
     } catch (err) {
+
         console.log("❌ Erro ao conectar na call:");
         console.log(err);
+
     }
 
 });
 
-process.on('unhandledRejection', (reason, promise) => {
-    console.log(`🚫 Erro Detectado:\n\n`, reason);
+// ERROS
+process.on("unhandledRejection", (reason) => {
+    console.log("🚫 Erro Detectado:");
+    console.log(reason);
 });
 
-process.on('uncaughtException', (error, origin) => {
-    console.log(`🚫 Erro Detectado:\n\n`, error);
+process.on("uncaughtException", (error) => {
+    console.log("🚫 Erro Detectado:");
+    console.log(error);
 });
