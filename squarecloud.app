@@ -1,0 +1,4 @@
+DISPLAY_NAME=BOT DE VENDAS
+MAIN=index.js
+MEMORY=150
+VERSION=recommended

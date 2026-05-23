@@ -1,0 +1,170 @@
+{
+    "1": {
+        "idproduto": "1",
+        "titulo": "Brasil Roleplay",
+        "desc": "CONTA BRP1 AUTORIZADA + DC VINCULADO",
+        "nome": "Brasil Roleplay",
+        "valor": 20,
+        "estoque": [],
+        "minimo": 5,
+        "banner": "https://files.catbox.moe/wrb5w8.png"
+    },
+    "2": {
+        "idproduto": "2",
+        "titulo": "Brasil Roleplay 2",
+        "desc": "``` Sem Descrição... ```",
+        "nome": "Brasil Roleplay 2",
+        "valor": 5,
+        "estoque": [
+            "1"
+        ],
+        "minimo": 1,
+        "banner": "https://files.catbox.moe/wrb5w8.png"
+    },
+    "3": {
+        "idproduto": "3",
+        "titulo": "Brasil Roleplay 3",
+        "desc": "``` Sem Descrição... ```",
+        "nome": "Brasil Roleplay 3",
+        "valor": 5,
+        "estoque": [
+            "1"
+        ],
+        "minimo": 1,
+        "banner": "https://files.catbox.moe/wrb5w8.png"
+    },
+    "4": {
+        "idproduto": "4",
+        "titulo": "Brasil Roleplay 4",
+        "desc": "``` Sem Descrição... ```",
+        "nome": "Brasil Roleplay 4",
+        "valor": 5,
+        "estoque": [
+            "1"
+        ],
+        "minimo": 1,
+        "banner": "https://files.catbox.moe/wrb5w8.png"
+    },
+    "5": {
+        "idproduto": "5",
+        "titulo": "Brasil Roleplay 5",
+        "desc": "``` Sem Descrição... ```",
+        "nome": "Brasil Roleplay 5",
+        "valor": 5,
+        "estoque": [
+            "1"
+        ],
+        "minimo": 1,
+        "banner": "https://files.catbox.moe/wrb5w8.png"
+    },
+    "6": {
+        "idproduto": "6",
+        "titulo": "Macro Slide",
+        "desc": "``` Sem Descrição... ```",
+        "nome": "Macro Slide",
+        "valor": 20,
+        "estoque": [
+            "5"
+        ],
+        "minimo": 1,
+        "banner": "https://files.catbox.moe/wrb5w8.png"
+    },
+    "7": {
+        "idproduto": "7",
+        "titulo": "7 | Sem Titulo...",
+        "desc": "``` Sem Descrição... ```",
+        "nome": "7",
+        "valor": 10,
+        "estoque": [],
+        "minimo": 1,
+        "banner": "remover"
+    },
+    "8": {
+        "idproduto": "8",
+        "titulo": "8 | Sem Titulo...",
+        "desc": "``` Sem Descrição... ```",
+        "nome": "8",
+        "valor": 10,
+        "estoque": [],
+        "minimo": 1,
+        "banner": "remover"
+    },
+    "rockstar": {
+        "idproduto": "rockstar",
+        "titulo": "sigma",
+        "desc": "``` Sem Descrição... ```",
+        "nome": "sigma",
+        "valor": 1,
+        "estoque": [
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma",
+            "sigma"
+        ],
+        "minimo": 1,
+        "banner": "remover"
+    }
+}
