@@ -12,6 +12,7 @@
     "@discordjs/voice": "^0.19.2",
     "axios": "^0.27.2",
     "discord.js": "^14.11.0",
+    "express": "^5.2.1",
     "mercadopago": "^1.5.13",
     "wio.db": "^4.0.22"
   }
